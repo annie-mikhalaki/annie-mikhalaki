@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anna
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m focused on React/Redux stack
+- 🌱 JavaScript/TypeScript/React/Redux/Jest/Cypress
