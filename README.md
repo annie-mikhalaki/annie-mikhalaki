@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Anna
-- 👀 I’m interested in Frontend Development
+- 👋 Hi, I’m Anna, Frontend Developer
 - 🌱 JavaScript/TypeScript/React/Redux/Jest/Cypress
